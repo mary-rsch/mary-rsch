@@ -9,7 +9,6 @@
 - 🌱 **Atualmente aprendendo:** Docker, PHP, SQL, utilizar WSL, Symfony.
 - 🏆 **Curiosidade:** Eu   
 
----
 
 ## 💻 Tecnologias e Ferramentas
 
@@ -40,7 +39,6 @@
 - 🌐 **Portfólio:** [-](Ainda não possuo.)  
 - 💼 **LinkedIn:** [Maryana Rigo Schroeder](https://www.linkedin.com/in/maryana-rigo-schroeder-732384292/) 
 
----
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato! 😊
 

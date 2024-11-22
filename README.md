@@ -6,7 +6,7 @@
 
 - 🎯 **Objetivo atual:** Obter experiência em desenvolvimento back-end e eventualmente ingressar em uma empresa de tecnologia.
 - 📍 **Localização:** Aracruz, ES.
-- 🌱 **Atualmente aprendendo:** Docker, PHP, SQL, Symfony.
+- 🌱 **Atualmente aprendendo:** Docker, SQL, Symfony.
 - 🏆 **Curiosidade:** I speak english 🤓☝️
 
 

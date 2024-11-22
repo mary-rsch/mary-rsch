@@ -1,4 +1,4 @@
-## 👋 Olá, sou Mary!
+## 👋 Eae, sou Mary!
 ![Linux users anyday: code.](https://media.tenor.com/JFVk98vql5gAAAAM/linux-trash.gif)
 
 

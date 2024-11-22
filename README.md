@@ -20,7 +20,8 @@
 ### **Frameworks e Ferramentas:**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Symfony]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40">
+
 
 ---
 
@@ -28,16 +29,16 @@
 
 | Nome do Projeto | Descrição | Tecnologias |
 |-----------------|-----------|-------------|
-| [Projeto 1 - Loja Virtual](https://github.com/PifferRps/LojaVirtual-Codifica2024) | Loja Virtual Codifica+ | PHP, MySQL, Docker, Laravel |
-| [Projeto 2 - Vazio por enquanto.](link) | Vazio por enquanto. | - |
-| [Portfolio, ainda não possuo.](link) | Meu portfólio pessoal, ainda não possuo. | HTML, CSS, JavaScript |
+| [Projeto 1](https://github.com/PifferRps/LojaVirtual-Codifica2024) | Loja Virtual Codifica+ | PHP, MySQL, Docker, Laravel |
+| [Projeto 2]() | Vazio por enquanto. | - |
+| [Portfolio]() | Meu portfólio profissional, ainda não possuo. | HTML, CSS, JavaScript |
 
 ---
 
 ## 📫 Entre em Contato
 
 - 💌 **E-mail:** [maryana.rigo.sch@gmail.com](mailto:maryana.rigo.sch@gmail.com)  
-- 🌐 **Portfólio:** [Ainda não possuo.](Ainda não possuo.)  
+- 🌐 **Portfólio:** [-](Ainda não possuo.)  
 - 💼 **LinkedIn:** [Maryana Rigo Schroeder](https://www.linkedin.com/in/maryana-rigo-schroeder-732384292/) 
 
 ---

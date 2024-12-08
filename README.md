@@ -1,4 +1,4 @@
-## 👋 Eae, sou Mary!
+## 👋 Eae
 ![Linux users anyday: code.](https://media.tenor.com/JFVk98vql5gAAAAM/linux-trash.gif)
 
 
@@ -27,7 +27,7 @@
 
 | Nome do Projeto | Descrição | Tecnologias |
 |-----------------|-----------|-------------|
-| [Projeto 1](https://github.com/PifferRps/LojaVirtual-Codifica2024) | Loja Virtual Codifica+ | PHP, MySQL, Docker, Laravel |
+| [Loja Vrtual CODIFICA+](https://github.com/PifferRps/LojaVirtual-Codifica2024) | Projeto de loja e-commerce | PHP, MySQL, Docker, Laravel |
 | [Projeto 2]() | Vazio por enquanto. | - |
 | [Portfolio]() | Meu portfólio profissional, ainda não possuo. | HTML, CSS, JavaScript |
 

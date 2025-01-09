@@ -29,14 +29,14 @@
 |-----------------|-----------|-------------|
 | [Loja Vrtual CODIFICA+](https://github.com/PifferRps/LojaVirtual-Codifica2024) | Projeto de loja e-commerce | PHP, MySQL, Docker, Laravel |
 | [Projeto 2]() | Vazio por enquanto. | - |
-| [Portfolio]() | Meu portfólio profissional, ainda não possuo. | HTML, CSS, JavaScript |
+| [Portfolio](https://github.com/mary-rsch/portfolio) | Meu portfólio profissional, em andamento. | JavaScript, React |
 
 ---
 
 ## 📫 Entre em Contato
 
 - 💌 **E-mail:** [maryana.rigo.sch@gmail.com](mailto:maryana.rigo.sch@gmail.com)  
-- 🌐 **Portfólio:** [-](Ainda não possuo.)  
+- 🌐 **Portfólio:** [Em andamento](https://github.com/mary-rsch/portfolio)  
 - 💼 **LinkedIn:** [Maryana Rigo Schroeder](https://www.linkedin.com/in/maryana-rigo-schroeder-732384292/) 
 
 

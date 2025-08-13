@@ -1,6 +1,17 @@
 ## 👋 
 ![Linux users anyday: code.](https://media.tenor.com/JFVk98vql5gAAAAM/linux-trash.gif)
 
+---
+
+## 📂 Projetos em Destaque
+
+| Nome do Projeto | Descrição | Tecnologias |
+|-----------------|-----------|-------------|
+| [Loja Vrtual CODIFICA+](https://github.com/PifferRps/LojaVirtual-Codifica2024) | Projeto de loja e-commerce | PHP, MySQL, Docker, Laravel |
+| [Alvo de Notícias](https://www.alvodenoticias.com) | Site de notícias | PHP Puro, SQL |
+| [Portfolio](https://github.com/mary-rsch/portfolio) | Meu portfólio profissional, em andamento. | JavaScript, React |
+
+---
 
 ## 🚀 Sobre mim
 
@@ -18,20 +29,6 @@
 
 ### **Frameworks e Ferramentas:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
-
-
-
----
-
-## 📂 Projetos em Destaque
-
-| Nome do Projeto | Descrição | Tecnologias |
-|-----------------|-----------|-------------|
-| [Loja Vrtual CODIFICA+](https://github.com/PifferRps/LojaVirtual-Codifica2024) | Projeto de loja e-commerce | PHP, MySQL, Docker, Laravel |
-| [Alvo de Notícias](https://www.alvodenoticias.com) | Site de notícias | PHP Puro, SQL |
-| [Portfolio](https://github.com/mary-rsch/portfolio) | Meu portfólio profissional, em andamento. | JavaScript, React |
-
----
 
 ## 📫 Entre em Contato
 

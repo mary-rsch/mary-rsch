@@ -33,12 +33,7 @@
 ## 📫 Entre em Contato
 
 - 💌 **E-mail:** [maryana.rigo.sch@gmail.com](mailto:maryana.rigo.sch@gmail.com)  
-- 🌐 **Portfólio:** [Em andamento](https://github.com/mary-rsch/portfolio)  
 - 💼 **LinkedIn:** [Maryana Rigo Schroeder](https://www.linkedin.com/in/maryana-rigo-schroeder-732384292/) 
 
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato! 😊
-
-
-📊 **Estatísticas do GitHub:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mary-rsch&show_icons=true&theme=radical)  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mary-rsch&layout=compact&theme=radical)  

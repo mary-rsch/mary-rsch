@@ -7,9 +7,9 @@
 
 | Nome do Projeto | Descrição | Tecnologias |
 |-----------------|-----------|-------------|
-| [Loja Vrtual CODIFICA+](https://github.com/PifferRps/LojaVirtual-Codifica2024) | Projeto de loja e-commerce | PHP, MySQL, Docker, Laravel |
-| [Alvo de Notícias](https://www.alvodenoticias.com) | Site de notícias | PHP Puro, SQL |
-| [Portfolio](https://github.com/mary-rsch/portfolio) | Meu portfólio profissional, em andamento. | - |
+| [Loja Virtual CODIFICA+](https://github.com/PifferRps/LojaVirtual-Codifica2024) | Projeto de loja e-commerce | PHP, MySQL, Docker, Laravel |
+| [Alvo de Notícias](https://www.alvodenoticias.com) | Site de notícias | PHP, SQL, JavaScript |
+| [Tribuna da Cidade](https://www.tribunadacidade.com) | Site de notícias | PHP, SQL, JavaScript |
 
 ---
 

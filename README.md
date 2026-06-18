@@ -7,7 +7,6 @@
 
 | Nome do Projeto | Descrição | Tecnologias |
 |-----------------|-----------|-------------|
-| [Loja Virtual CODIFICA+](https://github.com/PifferRps/LojaVirtual-Codifica2024) | Projeto de loja e-commerce | PHP, MySQL, Docker, Laravel |
 | [Alvo de Notícias](https://www.alvodenoticias.com) | Site de notícias | PHP, SQL, JavaScript |
 | [Tribuna da Cidade](https://www.tribunadacidade.com) | Site de notícias | PHP, SQL, JavaScript |
 
